@@ -1,0 +1,15 @@
+C:\Users\WorkGroup\Desktop\Lang\First Project\bin\Debug\net6.0\First Project.exe
+C:\Users\WorkGroup\Desktop\Lang\First Project\bin\Debug\net6.0\First Project.deps.json
+C:\Users\WorkGroup\Desktop\Lang\First Project\bin\Debug\net6.0\First Project.runtimeconfig.json
+C:\Users\WorkGroup\Desktop\Lang\First Project\bin\Debug\net6.0\First Project.dll
+C:\Users\WorkGroup\Desktop\Lang\First Project\bin\Debug\net6.0\First Project.pdb
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.csproj.AssemblyReference.cache
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.AssemblyInfoInputs.cache
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.AssemblyInfo.cs
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.csproj.CoreCompileInputs.cache
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.dll
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\refint\First Project.dll
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.pdb
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\First Project.genruntimeconfig.cache
+C:\Users\WorkGroup\Desktop\Lang\First Project\obj\Debug\net6.0\ref\First Project.dll
